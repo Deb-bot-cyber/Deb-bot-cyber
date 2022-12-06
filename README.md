@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Debashis, a freelance UI/UX Designer 👨‍💻 working remotely since 2021 🚀and i am interested in AI/ML.</div>  
+### <div align="center">I'm Debashis, a freelance UI/UX Designer and Front-End Developer 👨‍💻 working remotely since 2021 🚀and i am interested in AI/ML.</div>  
   
 
 - 🔭 I’m currently working on [Freelance UI/UX Design and Front-End Developer](https://www.fiverr.com/users/debashisbarman1)  
